@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lightning-2/static/css/main.6766a31d.chunk.css",
+    "main.js": "/lightning-2/static/js/main.df588bc8.chunk.js",
+    "main.js.map": "/lightning-2/static/js/main.df588bc8.chunk.js.map",
+    "runtime-main.js": "/lightning-2/static/js/runtime-main.e80784ba.js",
+    "runtime-main.js.map": "/lightning-2/static/js/runtime-main.e80784ba.js.map",
+    "static/js/2.fa1bf20f.chunk.js": "/lightning-2/static/js/2.fa1bf20f.chunk.js",
+    "static/js/2.fa1bf20f.chunk.js.map": "/lightning-2/static/js/2.fa1bf20f.chunk.js.map",
+    "index.html": "/lightning-2/index.html",
+    "static/css/main.6766a31d.chunk.css.map": "/lightning-2/static/css/main.6766a31d.chunk.css.map",
+    "static/js/2.fa1bf20f.chunk.js.LICENSE.txt": "/lightning-2/static/js/2.fa1bf20f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e80784ba.js",
+    "static/js/2.fa1bf20f.chunk.js",
+    "static/css/main.6766a31d.chunk.css",
+    "static/js/main.df588bc8.chunk.js"
+  ]
+}
